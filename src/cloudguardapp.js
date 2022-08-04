@@ -3,7 +3,7 @@
  */
 exports.cloudguardHandler = async () => {
     // If you change this message, you will need to change cloudguardapp.test.js
-    const message = 'This serverless app X is protected by CloudGuard!';
+    const message = 'This serverless app 2 is protected by CloudGuard!';
 
     // All log statements are written to CloudWatch
     console.info(`${message}`);
